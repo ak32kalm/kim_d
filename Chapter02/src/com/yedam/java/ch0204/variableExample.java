@@ -69,7 +69,7 @@ public class variableExample {
 	
 	
 	//컨트롤 시프트 o 누르면 맨위에 자동으로 import 선언이 생김 에도 new 는 빨간줄 어디 걸 읽어드릴꺼냐
-//. 까지의 모든 문장을 읽겠따	
+//nextline 은 . 까지의 모든 문장을 읽겠따	
 	
 	
 	
