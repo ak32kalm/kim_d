@@ -57,7 +57,7 @@ public class variableExample {
 	 System.out.println("j: "+j+ ", k:" + k);
 	 
 	 
-	 /*int v1 = 0;
+	 int v1 = 0;
 	 if(v1 >= 0) { 
 		 v1 = 1;
 		 int v2 = 0;
@@ -66,13 +66,13 @@ public class variableExample {
 			 int v3 = v1 + v2;
 			 System.out.println("v1:" + v1 + ", v2:" + v2 + ", v3:" + v3 );
 		 }
-		  }*/
+		  }
 	
 	 
 	 int n = 21;
+	 int m =10
 	 int sum = m+n;
 	 
-	 int m =10;
 	 if(m>=10) {
 		
 	 }System.out.println("sum :"+ sum);
